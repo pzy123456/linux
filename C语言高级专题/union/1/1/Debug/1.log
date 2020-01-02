@@ -1,0 +1,11 @@
+﻿生成启动时间为 2019/8/5 19:06:18。
+     1>项目“K:\C语言指针练习\union\1\1\1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt 1.cpp
+         1.cpp
+     1>k:\c语言指针练习\union\1\1\1.cpp(13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>已完成生成项目“K:\C语言指针练习\union\1\1\1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.19

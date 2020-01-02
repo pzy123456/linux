@@ -1,0 +1,14 @@
+﻿生成启动时间为 2019/7/16 13:47:16。
+     1>项目“K:\C语言指针练习\地址分配问题\地址分配\地址分配\地址分配.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual Studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\地址分配.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "地址分配.cpp"
+         地址分配.cpp
+       Link:
+         D:\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"K:\C语言指针练习\地址分配问题\地址分配\Debug\地址分配.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"K:\C语言指针练习\地址分配问题\地址分配\Debug\地址分配.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"K:\C语言指针练习\地址分配问题\地址分配\Debug\地址分配.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\地址分配.obj"
+         地址分配.vcxproj -> K:\C语言指针练习\地址分配问题\地址分配\Debug\地址分配.exe
+     1>已完成生成项目“K:\C语言指针练习\地址分配问题\地址分配\地址分配\地址分配.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.55

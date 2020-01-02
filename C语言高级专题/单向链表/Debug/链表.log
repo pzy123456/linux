@@ -1,0 +1,21 @@
+﻿生成启动时间为 2019/7/28 21:51:02。
+     1>项目“K:\C语言指针练习\单向链表\链表.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual Studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt "链表.c"
+         链表.c
+     1>k:\c语言指针练习\单向链表\链表.c(46): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>k:\c语言指针练习\单向链表\链表.c(47): error C2065: “pNew”: 未声明的标识符
+     1>k:\c语言指针练习\单向链表\链表.c(47): warning C4047: “==”:“int”与“void *”的间接级别不同
+     1>k:\c语言指针练习\单向链表\链表.c(52): error C2065: “pNew”: 未声明的标识符
+     1>k:\c语言指针练习\单向链表\链表.c(52): error C2223: “->data”的左侧必须指向结构/联合
+     1>k:\c语言指针练习\单向链表\链表.c(53): error C2065: “pNew”: 未声明的标识符
+     1>k:\c语言指针练习\单向链表\链表.c(53): warning C4047: “=”:“Node *”与“int”的间接级别不同
+     1>k:\c语言指针练习\单向链表\链表.c(54): error C2065: “pNew”: 未声明的标识符
+     1>k:\c语言指针练习\单向链表\链表.c(54): error C2223: “->Next”的左侧必须指向结构/联合
+     1>k:\c语言指针练习\单向链表\链表.c(55): error C2065: “pNew”: 未声明的标识符
+     1>k:\c语言指针练习\单向链表\链表.c(55): warning C4047: “=”:“Node *”与“int”的间接级别不同
+     1>已完成生成项目“K:\C语言指针练习\单向链表\链表.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.19

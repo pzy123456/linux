@@ -1,0 +1,14 @@
+﻿生成启动时间为 2019/7/27 10:34:26。
+     1>项目“K:\C语言指针练习\void类型\void类型\void类型\void类型.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual Studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\void类型.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "void类型.cpp"
+         void类型.cpp
+     1>k:\c语言指针练习\void类型\void类型\void类型\void类型.cpp(9): error C2100: 非法的间接寻址
+     1>k:\c语言指针练习\void类型\void类型\void类型\void类型.cpp(9): error C2110: “+”: 不能添加两个指针
+     1>k:\c语言指针练习\void类型\void类型\void类型\void类型.cpp(13): error C2101: 常量上的“&”
+     1>k:\c语言指针练习\void类型\void类型\void类型\void类型.cpp(13): error C2664: “add”: 不能将参数 1 从“double”转换为“void *”
+     1>已完成生成项目“K:\C语言指针练习\void类型\void类型\void类型\void类型.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.86

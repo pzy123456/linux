@@ -1,0 +1,13 @@
+﻿生成启动时间为 2019/7/17 10:18:13。
+     1>项目“K:\C语言指针练习\栈的应用\栈的应用\栈的应用\栈的应用.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"K:\C语言指针练习\栈的应用\栈的应用\Debug\栈的应用.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"K:\C语言指针练习\栈的应用\栈的应用\Debug\栈的应用.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"K:\C语言指针练习\栈的应用\栈的应用\Debug\栈的应用.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\栈的应用.obj"
+     1>LINK : warning LNK4067: 不明确的入口点；选定“mainCRTStartup”
+     1>栈的应用.obj : error LNK2019: 无法解析的外部符号 "void __cdecl pop(struct stack *,int *)" (?pop@@YAXPAUstack@@PAH@Z)，该符号在函数 _main 中被引用
+     1>K:\C语言指针练习\栈的应用\栈的应用\Debug\栈的应用.exe : fatal error LNK1120: 1 个无法解析的外部命令
+     1>已完成生成项目“K:\C语言指针练习\栈的应用\栈的应用\栈的应用\栈的应用.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.47

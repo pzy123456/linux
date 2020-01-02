@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 链表 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPE1AC.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/链表.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Administrator\Desktop\链表.c"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPE1AC.tmp" 
+<h3>Output Window</h3>
+Compiling...
+链表.c
+C:\Users\Administrator\Desktop\链表.c(42) : error C2143: syntax error : missing ';' before 'type'
+C:\Users\Administrator\Desktop\链表.c(43) : error C2065: 'pNew' : undeclared identifier
+C:\Users\Administrator\Desktop\链表.c(43) : warning C4047: '==' : 'int ' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\链表.c(48) : error C2223: left of '->data' must point to struct/union
+C:\Users\Administrator\Desktop\链表.c(49) : warning C4047: '=' : 'struct Node *' differs in levels of indirection from 'int '
+C:\Users\Administrator\Desktop\链表.c(50) : error C2223: left of '->Next' must point to struct/union
+C:\Users\Administrator\Desktop\链表.c(51) : warning C4047: '=' : 'struct Node *' differs in levels of indirection from 'int '
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+链表.obj - 4 error(s), 3 warning(s)
+</pre>
+</body>
+</html>
