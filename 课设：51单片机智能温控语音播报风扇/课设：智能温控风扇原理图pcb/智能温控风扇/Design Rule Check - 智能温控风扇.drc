@@ -1,0 +1,615 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Administrator\Desktop\课设：智能温控风扇原理图pcb\智能温控风扇\智能温控风扇.PcbDoc
+Date     : 2019/6/1
+Time     : 18:41:40
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Width Constraint (Min=5mil) (Max=60mil) (Preferred=15mil) (InNetClass('PWR'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98782.429mil,70816.037mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98882.325mil,70690.992mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98625.305mil,68237.726mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98617.125mil,68239.349mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98148.663mil,67703.356mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99328.31mil,68119.513mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98265.136mil,69480.701mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98265.136mil,69480.701mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99137.022mil,69829.309mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99143.155mil,69829.309mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98882.325mil,70690.992mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98361.545mil,69531.404mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99221.798mil,69880.734mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (95558.264mil,63691.897mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (95038.624mil,63468.14mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (101794.492mil,65587.181mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (101737.871mil,66060.821mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (101248.759mil,65326.719mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98211.248mil,61901.507mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99601.082mil,61856.184mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100995.782mil,61917.107mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100107.668mil,70063.629mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100431.268mil,70107.555mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99284.51mil,69241.316mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99309.597mil,69212.134mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (101454.859mil,66117.105mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (101350.342mil,66362.802mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99963.531mil,71997.14mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100063.427mil,71872.094mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99806.408mil,69418.829mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99798.227mil,69420.452mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99329.766mil,68884.459mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100509.413mil,69300.615mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99446.239mil,70661.804mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99446.239mil,70661.804mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100318.124mil,71010.412mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100324.257mil,71010.412mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100063.427mil,71872.094mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99542.648mil,70712.506mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100402.9mil,71061.837mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98558.497mil,71150.913mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99573.363mil,71734.479mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98859.241mil,71877.493mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (96739.366mil,64872.999mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (96219.727mil,64649.242mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (102975.595mil,66768.284mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (102918.974mil,67241.923mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (102429.861mil,66507.821mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98081.86mil,63049.611mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99392.351mil,63082.61mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100782.184mil,63037.287mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (102176.884mil,63098.21mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (101288.771mil,71244.731mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (101612.37mil,71288.657mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99284.51mil,69241.316mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99309.597mil,69212.133mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (101454.859mil,66117.104mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (101350.342mil,66362.801mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99963.531mil,71997.139mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100063.427mil,71872.094mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99806.407mil,69418.828mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99798.227mil,69420.451mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99329.765mil,68884.458mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100509.412mil,69300.615mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99446.238mil,70661.803mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99446.238mil,70661.803mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100318.124mil,71010.411mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100324.257mil,71010.411mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100063.427mil,71872.094mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99542.648mil,70712.505mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100402.9mil,71061.836mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98558.497mil,71150.913mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99573.363mil,71734.478mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98859.241mil,71877.493mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (96739.366mil,64872.999mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (96219.726mil,64649.242mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (102975.594mil,66768.283mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (102918.973mil,67241.923mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (102429.861mil,66507.821mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (98081.86mil,63049.611mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (99392.35mil,63082.609mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (100782.184mil,63037.286mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (102176.884mil,63098.209mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (101288.77mil,71244.731mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (101612.37mil,71288.657mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97835.109mil,67790.886mil)(97851.668mil,67816.609mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97851.668mil,67816.609mil)(97866.481mil,67843.718mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97866.481mil,67843.718mil)(97879.492mil,67872.108mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97879.492mil,67872.108mil)(97890.647mil,67901.664mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97890.647mil,67901.664mil)(97899.904mil,67932.272mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97899.904mil,67932.272mil)(97907.225mil,67963.81mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97907.225mil,67963.81mil)(97912.582mil,67996.153mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97912.582mil,67996.153mil)(97915.953mil,68029.174mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97915.953mil,68029.174mil)(97917.326mil,68062.743mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97916.694mil,68096.728mil)(97917.326mil,68062.743mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97914.061mil,68130.993mil)(97916.694mil,68096.728mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97909.437mil,68165.404mil)(97914.061mil,68130.993mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97902.839mil,68199.825mil)(97909.437mil,68165.404mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97894.295mil,68234.12mil)(97902.839mil,68199.825mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97883.837mil,68268.154mil)(97894.295mil,68234.12mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97871.508mil,68301.793mil)(97883.837mil,68268.154mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97857.355mil,68334.903mil)(97871.508mil,68301.793mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97841.435mil,68367.355mil)(97857.355mil,68334.903mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99908.206mil,70435.988mil)(99928.405mil,70454.619mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99889.419mil,70415.875mil)(99908.206mil,70435.988mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99872.118mil,70394.357mil)(99889.419mil,70415.875mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99856.371mil,70371.52mil)(99872.118mil,70394.357mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99842.24mil,70347.455mil)(99856.371mil,70371.52mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99829.781mil,70322.255mil)(99842.24mil,70347.455mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99819.043mil,70296.021mil)(99829.781mil,70322.255mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99810.069mil,70268.857mil)(99819.043mil,70296.021mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99802.894mil,70240.868mil)(99810.069mil,70268.857mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99797.546mil,70212.167mil)(99802.894mil,70240.868mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99794.047mil,70182.866mil)(99797.546mil,70212.167mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99792.41mil,70153.08mil)(99794.047mil,70182.866mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99792.41mil,70153.08mil)(99792.642mil,70122.927mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99792.642mil,70122.927mil)(99794.741mil,70092.527mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99794.741mil,70092.527mil)(99798.7mil,70061.999mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99798.7mil,70061.999mil)(99804.503mil,70031.464mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99804.503mil,70031.464mil)(99812.127mil,70001.042mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99812.127mil,70001.042mil)(99821.541mil,69970.853mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99821.541mil,69970.853mil)(99832.71mil,69941.017mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99832.71mil,69941.017mil)(99845.588mil,69911.651mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99845.588mil,69911.651mil)(99860.125mil,69882.871mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99860.125mil,69882.871mil)(99876.263mil,69854.79mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99876.263mil,69854.79mil)(99893.94mil,69827.52mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99893.94mil,69827.52mil)(99913.084mil,69801.168mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99913.084mil,69801.168mil)(99933.621mil,69775.838mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99933.621mil,69775.838mil)(99955.469mil,69751.631mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99955.469mil,69751.631mil)(99978.542mil,69728.64mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99978.542mil,69728.64mil)(100002.749mil,69706.959mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100002.749mil,69706.959mil)(100027.995mil,69686.671mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100027.995mil,69686.671mil)(100054.18mil,69667.857mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100054.18mil,69667.857mil)(100081.201mil,69650.591mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100081.201mil,69650.591mil)(100108.95mil,69634.942mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100108.95mil,69634.942mil)(100137.319mil,69620.97mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100137.319mil,69620.97mil)(100166.196mil,69608.732mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100166.196mil,69608.732mil)(100195.466mil,69598.276mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100195.466mil,69598.276mil)(100225.014mil,69589.642mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100225.014mil,69589.642mil)(100254.724mil,69582.865mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100254.724mil,69582.865mil)(100284.477mil,69577.972mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100284.477mil,69577.972mil)(100314.158mil,69574.982mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100314.158mil,69574.982mil)(100343.648mil,69573.907mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100343.648mil,69573.907mil)(100372.831mil,69574.75mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100372.831mil,69574.75mil)(100401.592mil,69577.509mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100401.592mil,69577.509mil)(100429.818mil,69582.173mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100429.818mil,69582.173mil)(100457.397mil,69588.724mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100457.397mil,69588.724mil)(100484.221mil,69597.135mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100484.221mil,69597.135mil)(100510.182mil,69607.373mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100510.182mil,69607.373mil)(100535.18mil,69619.398mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100535.18mil,69619.398mil)(100559.115mil,69633.162mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100559.115mil,69633.162mil)(100581.893mil,69648.612mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100581.893mil,69648.612mil)(100603.424mil,69665.686mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100603.424mil,69665.686mil)(100623.623mil,69684.316mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100623.623mil,69684.316mil)(100642.41mil,69704.43mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100642.41mil,69704.43mil)(100659.712mil,69725.948mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100659.712mil,69725.948mil)(100675.459mil,69748.785mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100675.459mil,69748.785mil)(100689.59mil,69772.85mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100689.59mil,69772.85mil)(100702.049mil,69798.05mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100702.049mil,69798.05mil)(100712.786mil,69824.283mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100712.786mil,69824.283mil)(100721.76mil,69851.448mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100721.76mil,69851.448mil)(100728.935mil,69879.436mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100728.935mil,69879.436mil)(100734.283mil,69908.138mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100734.283mil,69908.138mil)(100737.782mil,69937.439mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100737.782mil,69937.439mil)(100739.419mil,69967.225mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100739.188mil,69997.377mil)(100739.419mil,69967.225mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100737.088mil,70027.778mil)(100739.188mil,69997.377mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100733.129mil,70058.306mil)(100737.088mil,70027.778mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100727.326mil,70088.841mil)(100733.129mil,70058.306mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100719.702mil,70119.263mil)(100727.326mil,70088.841mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100710.288mil,70149.452mil)(100719.702mil,70119.263mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100699.119mil,70179.288mil)(100710.288mil,70149.452mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100686.241mil,70208.654mil)(100699.119mil,70179.288mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100671.704mil,70237.434mil)(100686.241mil,70208.654mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100655.566mil,70265.515mil)(100671.704mil,70237.434mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100637.89mil,70292.785mil)(100655.566mil,70265.515mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100618.745mil,70319.137mil)(100637.89mil,70292.785mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100598.209mil,70344.466mil)(100618.745mil,70319.137mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100576.361mil,70368.674mil)(100598.209mil,70344.466mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100553.287mil,70391.664mil)(100576.361mil,70368.674mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100529.08mil,70413.346mil)(100553.287mil,70391.664mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100503.834mil,70433.634mil)(100529.08mil,70413.346mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100477.649mil,70452.448mil)(100503.834mil,70433.634mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100450.628mil,70469.714mil)(100477.649mil,70452.448mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100422.879mil,70485.363mil)(100450.628mil,70469.714mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100394.51mil,70499.334mil)(100422.879mil,70485.363mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100365.633mil,70511.572mil)(100394.51mil,70499.334mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100336.363mil,70522.029mil)(100365.633mil,70511.572mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100306.815mil,70530.663mil)(100336.363mil,70522.029mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100277.106mil,70537.439mil)(100306.815mil,70530.663mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100247.352mil,70542.333mil)(100277.106mil,70537.439mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100217.671mil,70545.323mil)(100247.352mil,70542.333mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100188.181mil,70546.398mil)(100217.671mil,70545.323mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100158.998mil,70545.555mil)(100188.181mil,70546.398mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100130.237mil,70542.795mil)(100158.998mil,70545.555mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100102.011mil,70538.131mil)(100130.237mil,70542.795mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100074.432mil,70531.581mil)(100102.011mil,70538.131mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100047.609mil,70523.17mil)(100074.432mil,70531.581mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100021.647mil,70512.932mil)(100047.609mil,70523.17mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99996.649mil,70500.907mil)(100021.647mil,70512.932mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99972.714mil,70487.143mil)(99996.649mil,70500.907mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99949.936mil,70471.693mil)(99972.714mil,70487.143mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99928.405mil,70454.619mil)(99949.936mil,70471.693mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99872.595mil,70483.481mil)(99897.74mil,70505.064mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99849.001mil,70460.164mil)(99872.595mil,70483.481mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99827.053mil,70435.208mil)(99849.001mil,70460.164mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99806.836mil,70408.709mil)(99827.053mil,70435.208mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99788.43mil,70380.772mil)(99806.836mil,70408.709mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99771.909mil,70351.509mil)(99788.43mil,70380.772mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99757.337mil,70321.033mil)(99771.909mil,70351.509mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99744.772mil,70289.466mil)(99757.337mil,70321.033mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99734.262mil,70256.932mil)(99744.772mil,70289.466mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99725.851mil,70223.56mil)(99734.262mil,70256.932mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99719.571mil,70189.481mil)(99725.851mil,70223.56mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99715.446mil,70154.83mil)(99719.571mil,70189.481mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99713.494mil,70119.742mil)(99715.446mil,70154.83mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99713.494mil,70119.742mil)(99713.721mil,70084.358mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99713.721mil,70084.358mil)(99716.128mil,70048.817mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99716.128mil,70048.817mil)(99720.703mil,70013.258mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99720.703mil,70013.258mil)(99727.43mil,69977.822mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99727.43mil,69977.822mil)(99736.282mil,69942.65mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99736.282mil,69942.65mil)(99747.224mil,69907.879mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99747.224mil,69907.879mil)(99760.212mil,69873.647mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99760.212mil,69873.647mil)(99775.196mil,69840.089mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99775.196mil,69840.089mil)(99792.115mil,69807.338mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99792.115mil,69807.338mil)(99810.905mil,69775.523mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99810.905mil,69775.523mil)(99831.489mil,69744.769mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99831.489mil,69744.769mil)(99853.788mil,69715.198mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99853.788mil,69715.198mil)(99877.713mil,69686.926mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99877.713mil,69686.926mil)(99903.17mil,69660.065mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99903.17mil,69660.065mil)(99930.058mil,69634.722mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99930.058mil,69634.722mil)(99958.271mil,69610.995mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99958.271mil,69610.995mil)(99987.697mil,69588.979mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99987.697mil,69588.979mil)(100018.221mil,69568.761mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100018.221mil,69568.761mil)(100049.723mil,69550.42mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100049.723mil,69550.42mil)(100082.077mil,69534.029mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100082.077mil,69534.029mil)(100115.157mil,69519.652mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100115.157mil,69519.652mil)(100148.831mil,69507.347mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100148.831mil,69507.347mil)(100182.966mil,69497.161mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100182.966mil,69497.161mil)(100217.429mil,69489.135mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100217.429mil,69489.135mil)(100252.083mil,69483.301mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100252.083mil,69483.301mil)(100286.791mil,69479.681mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100286.791mil,69479.681mil)(100321.416mil,69478.291mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100321.416mil,69478.291mil)(100355.821mil,69479.134mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100355.821mil,69479.134mil)(100389.872mil,69482.209mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100389.872mil,69482.209mil)(100423.433mil,69487.503mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100423.433mil,69487.503mil)(100456.372mil,69494.995mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100456.372mil,69494.995mil)(100488.558mil,69504.655mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100488.558mil,69504.655mil)(100519.866mil,69516.446mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100519.866mil,69516.446mil)(100550.171mil,69530.321mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100550.171mil,69530.321mil)(100579.354mil,69546.224mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100579.354mil,69546.224mil)(100607.3mil,69564.095mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100607.3mil,69564.095mil)(100633.898mil,69583.86mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100633.898mil,69583.86mil)(100659.043mil,69605.444mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100659.043mil,69605.444mil)(100682.637mil,69628.76mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100682.637mil,69628.76mil)(100704.585mil,69653.717mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100704.585mil,69653.717mil)(100724.802mil,69680.216mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100724.802mil,69680.216mil)(100743.207mil,69708.152mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100743.207mil,69708.152mil)(100759.729mil,69737.416mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100759.729mil,69737.416mil)(100774.301mil,69767.891mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100774.301mil,69767.891mil)(100786.866mil,69799.458mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100786.866mil,69799.458mil)(100797.375mil,69831.992mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100797.375mil,69831.992mil)(100805.787mil,69865.364mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100805.787mil,69865.364mil)(100812.067mil,69899.443mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100812.067mil,69899.443mil)(100816.191mil,69934.095mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100816.191mil,69934.095mil)(100818.144mil,69969.182mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100817.916mil,70004.566mil)(100818.144mil,69969.182mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100815.51mil,70040.108mil)(100817.916mil,70004.566mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100810.934mil,70075.667mil)(100815.51mil,70040.108mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100804.207mil,70111.102mil)(100810.934mil,70075.667mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100795.356mil,70146.275mil)(100804.207mil,70111.102mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100784.414mil,70181.046mil)(100795.356mil,70146.275mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100771.426mil,70215.277mil)(100784.414mil,70181.046mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100756.442mil,70248.835mil)(100771.426mil,70215.277mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100739.522mil,70281.586mil)(100756.442mil,70248.835mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100720.733mil,70313.402mil)(100739.522mil,70281.586mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100700.148mil,70344.155mil)(100720.733mil,70313.402mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100677.849mil,70373.727mil)(100700.148mil,70344.155mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100653.924mil,70401.998mil)(100677.849mil,70373.727mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100628.468mil,70428.859mil)(100653.924mil,70401.998mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100601.58mil,70454.203mil)(100628.468mil,70428.859mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100573.367mil,70477.929mil)(100601.58mil,70454.203mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100543.94mil,70499.945mil)(100573.367mil,70477.929mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100513.416mil,70520.163mil)(100543.94mil,70499.945mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100481.915mil,70538.504mil)(100513.416mil,70520.163mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100449.561mil,70554.895mil)(100481.915mil,70538.504mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100416.481mil,70569.272mil)(100449.561mil,70554.895mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100382.807mil,70581.578mil)(100416.481mil,70569.272mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100348.671mil,70591.764mil)(100382.807mil,70581.578mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100314.209mil,70599.789mil)(100348.671mil,70591.764mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100279.555mil,70605.624mil)(100314.209mil,70599.789mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100244.847mil,70609.243mil)(100279.555mil,70605.624mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100210.222mil,70610.634mil)(100244.847mil,70609.243mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100175.816mil,70609.79mil)(100210.222mil,70610.634mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100141.766mil,70606.715mil)(100175.816mil,70609.79mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100108.205mil,70601.421mil)(100141.766mil,70606.715mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100075.266mil,70593.929mil)(100108.205mil,70601.421mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100043.079mil,70584.269mil)(100075.266mil,70593.929mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100011.772mil,70572.478mil)(100043.079mil,70584.269mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99981.466mil,70558.604mil)(100011.772mil,70572.478mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99952.283mil,70542.7mil)(99981.466mil,70558.604mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99924.338mil,70524.83mil)(99952.283mil,70542.7mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99897.74mil,70505.064mil)(99924.338mil,70524.83mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98350.714mil,70136.892mil)(98354.405mil,70111.717mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98346.202mil,70162.38mil)(98350.714mil,70136.892mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98340.875mil,70188.138mil)(98346.202mil,70162.38mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98334.744mil,70214.118mil)(98340.875mil,70188.138mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98327.82mil,70240.273mil)(98334.744mil,70214.118mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98320.115mil,70266.557mil)(98327.82mil,70240.273mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98311.643mil,70292.922mil)(98320.115mil,70266.557mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98302.42mil,70319.321mil)(98311.643mil,70292.922mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98292.461mil,70345.707mil)(98302.42mil,70319.321mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98281.784mil,70372.032mil)(98292.461mil,70345.707mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98270.41mil,70398.248mil)(98281.784mil,70372.032mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98258.357mil,70424.31mil)(98270.41mil,70398.248mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98245.649mil,70450.169mil)(98258.357mil,70424.31mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98232.307mil,70475.779mil)(98245.649mil,70450.169mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98218.357mil,70501.095mil)(98232.307mil,70475.779mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98203.822mil,70526.071mil)(98218.357mil,70501.095mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98188.729mil,70550.662mil)(98203.822mil,70526.071mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98173.105mil,70574.824mil)(98188.729mil,70550.662mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98156.978mil,70598.513mil)(98173.105mil,70574.824mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98140.377mil,70621.687mil)(98156.978mil,70598.513mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98123.332mil,70644.304mil)(98140.377mil,70621.687mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98105.874mil,70666.324mil)(98123.332mil,70644.304mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98088.034mil,70687.707mil)(98105.874mil,70666.324mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98069.843mil,70708.414mil)(98088.034mil,70687.707mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98051.336mil,70728.409mil)(98069.843mil,70708.414mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98032.544mil,70747.655mil)(98051.336mil,70728.409mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98013.502mil,70766.118mil)(98032.544mil,70747.655mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97994.244mil,70783.765mil)(98013.502mil,70766.118mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97974.804mil,70800.564mil)(97994.244mil,70783.765mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97955.218mil,70816.485mil)(97974.804mil,70800.564mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97935.52mil,70831.498mil)(97955.218mil,70816.485mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97915.747mil,70845.578mil)(97935.52mil,70831.498mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97895.933mil,70858.699mil)(97915.747mil,70845.578mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97876.114mil,70870.837mil)(97895.933mil,70858.699mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97856.326mil,70881.971mil)(97876.114mil,70870.837mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (97836.604mil,70892.08mil)(97856.326mil,70881.971mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100287.951mil,66260.394mil)(101147.174mil,65922.293mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100087.276mil,66133.347mil)(100098.626mil,66128.965mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (101433.648mil,65843.749mil)(101778.984mil,65972.508mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (101147.174mil,65922.293mil)(101685.92mil,66148.961mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (101135.974mil,65728.414mil)(101160.355mil,65317.13mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (101328.518mil,65660.123mil)(101337.505mil,65332.305mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (101328.518mil,65660.123mil)(101779.728mil,65483.175mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (101433.648mil,65843.749mil)(101855.613mil,65672.619mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (100417.579mil,66005.808mil)(101135.974mil,65728.414mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99544.448mil,62015.201mil)(99544.448mil,63515.469mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99946.109mil,62072.356mil)(99946.109mil,63515.469mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99544.448mil,62015.201mil)(100967.223mil,62217.656mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99544.448mil,61697.167mil)(101037.333mil,61618.077mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98247.278mil,69813.189mil)(98271.453mil,69830.58mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98224.457mil,69793.967mil)(98247.278mil,69813.189mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98203.082mil,69772.989mil)(98224.457mil,69793.967mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98183.236mil,69750.338mil)(98203.082mil,69772.989mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98164.997mil,69726.102mil)(98183.236mil,69750.338mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98148.439mil,69700.379mil)(98164.997mil,69726.102mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98133.625mil,69673.27mil)(98148.439mil,69700.379mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98120.615mil,69644.88mil)(98133.625mil,69673.27mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98109.459mil,69615.324mil)(98120.615mil,69644.88mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98100.203mil,69584.716mil)(98109.459mil,69615.324mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98092.882mil,69553.178mil)(98100.203mil,69584.716mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98087.525mil,69520.835mil)(98092.882mil,69553.178mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98084.153mil,69487.813mil)(98087.525mil,69520.835mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98082.781mil,69454.244mil)(98084.153mil,69487.813mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98082.781mil,69454.244mil)(98083.412mil,69420.26mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98083.412mil,69420.26mil)(98086.045mil,69385.995mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98086.045mil,69385.995mil)(98090.67mil,69351.584mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98090.67mil,69351.584mil)(98097.267mil,69317.163mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98097.267mil,69317.163mil)(98105.811mil,69282.868mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98105.811mil,69282.868mil)(98116.269mil,69248.833mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98116.269mil,69248.833mil)(98128.598mil,69215.195mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98128.598mil,69215.195mil)(98142.751mil,69182.085mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98142.751mil,69182.085mil)(98158.672mil,69149.633mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98158.672mil,69149.633mil)(98176.297mil,69117.969mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98176.297mil,69117.969mil)(98195.557mil,69087.216mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98195.557mil,69087.216mil)(98216.376mil,69057.497mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98216.376mil,69057.497mil)(98238.672mil,69028.928mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98238.672mil,69028.928mil)(98262.357mil,69001.623mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98262.357mil,69001.623mil)(98287.338mil,68975.689mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98287.338mil,68975.689mil)(98313.515mil,68951.229mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98313.515mil,68951.229mil)(98340.786mil,68928.338mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98340.786mil,68928.338mil)(98369.043mil,68907.108mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98369.043mil,68907.108mil)(98398.174mil,68887.621mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98398.174mil,68887.621mil)(98428.064mil,68869.956mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98428.064mil,68869.956mil)(98458.597mil,68854.182mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98458.597mil,68854.182mil)(98489.65mil,68840.361mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98489.65mil,68840.361mil)(98521.101mil,68828.547mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98521.101mil,68828.547mil)(98552.827mil,68818.787mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98552.827mil,68818.787mil)(98584.702mil,68811.12mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98584.702mil,68811.12mil)(98616.6mil,68805.576mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98616.6mil,68805.576mil)(98648.395mil,68802.177mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98648.395mil,68802.177mil)(98679.963mil,68800.936mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98679.963mil,68800.936mil)(98711.178mil,68801.858mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98711.178mil,68801.858mil)(98741.917mil,68804.94mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98741.917mil,68804.94mil)(98772.059mil,68810.169mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98772.059mil,68810.169mil)(98801.484mil,68817.524mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98801.484mil,68817.524mil)(98830.078mil,68826.978mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98830.078mil,68826.978mil)(98857.726mil,68838.492mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98857.726mil,68838.492mil)(98884.32mil,68852.02mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98884.32mil,68852.02mil)(98909.755mil,68867.51mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98909.755mil,68867.51mil)(98933.931mil,68884.901mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98933.931mil,68884.901mil)(98956.751mil,68904.123mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98956.751mil,68904.123mil)(98978.127mil,68925.101mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98978.127mil,68925.101mil)(98997.973mil,68947.753mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98997.973mil,68947.753mil)(99016.211mil,68971.988mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99016.211mil,68971.988mil)(99032.77mil,68997.711mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99032.77mil,68997.711mil)(99047.584mil,69024.821mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99047.584mil,69024.821mil)(99060.594mil,69053.21mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99060.594mil,69053.21mil)(99071.75mil,69082.767mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99071.75mil,69082.767mil)(99081.006mil,69113.375mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99081.006mil,69113.375mil)(99088.327mil,69144.912mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99088.327mil,69144.912mil)(99093.684mil,69177.256mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99093.684mil,69177.256mil)(99097.055mil,69210.277mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99097.055mil,69210.277mil)(99098.428mil,69243.846mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99097.797mil,69277.83mil)(99098.428mil,69243.846mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99095.164mil,69312.095mil)(99097.797mil,69277.83mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99090.539mil,69346.506mil)(99095.164mil,69312.095mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99083.942mil,69380.928mil)(99090.539mil,69346.506mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99075.398mil,69415.223mil)(99083.942mil,69380.928mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99064.94mil,69449.257mil)(99075.398mil,69415.223mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99052.61mil,69482.895mil)(99064.94mil,69449.257mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99038.457mil,69516.006mil)(99052.61mil,69482.895mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99022.537mil,69548.457mil)(99038.457mil,69516.006mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (99004.912mil,69580.122mil)(99022.537mil,69548.457mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98985.652mil,69610.874mil)(99004.912mil,69580.122mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98964.833mil,69640.593mil)(98985.652mil,69610.874mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98942.537mil,69669.162mil)(98964.833mil,69640.593mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98918.852mil,69696.467mil)(98942.537mil,69669.162mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98893.871mil,69722.401mil)(98918.852mil,69696.467mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98867.694mil,69746.862mil)(98893.871mil,69722.401mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98840.423mil,69769.752mil)(98867.694mil,69746.862mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98812.166mil,69790.983mil)(98840.423mil,69769.752mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98783.035mil,69810.469mil)(98812.166mil,69790.983mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98753.144mil,69828.134mil)(98783.035mil,69810.469mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98722.612mil,69843.908mil)(98753.144mil,69828.134mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98691.559mil,69857.73mil)(98722.612mil,69843.908mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98660.108mil,69869.544mil)(98691.559mil,69857.73mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98628.382mil,69879.303mil)(98660.108mil,69869.544mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98596.507mil,69886.97mil)(98628.382mil,69879.303mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98564.609mil,69892.514mil)(98596.507mil,69886.97mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (98532.813mil,69895.913mil)(98564.609mil,69892.514mil)  Top Overlay
+Rule Violations :443
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=2.5mil) (IsPad),(All)
+   Violation between Pad 电位器-2(1465mil,2685mil)  Multi-Layer and 
+                     Arc (1465mil,2800mil)  Top Overlay
+   Violation between Track (1846.779mil,2236.157mil)(1992.484mil,2236.157mil)  Top Overlay and 
+                     Pad C2-1(1920mil,2240mil)  Multi-Layer
+   Violation between Track (1846.547mil,2045.097mil)(1992.248mil,2045.097mil)  Top Overlay and 
+                     Pad C2-2(1920mil,2040mil)  Multi-Layer
+   Violation between Track (800.76mil,1580.92mil)(800.76mil,1813.16mil)  Top Overlay and 
+                     Pad RSTK1-2(787.05mil,1606.42mil)  Multi-Layer
+   Violation between Track (800.76mil,1580.92mil)(1029.05mil,1580.92mil)  Top Overlay and 
+                     Pad RSTK1-2(787.05mil,1606.42mil)  Multi-Layer
+   Violation between Track (1029.05mil,1580.92mil)(1029.05mil,1813.16mil)  Top Overlay and 
+                     Pad RSTK1-1(1042.95mil,1606.42mil)  Multi-Layer
+   Violation between Track (800.76mil,1580.92mil)(1029.05mil,1580.92mil)  Top Overlay and 
+                     Pad RSTK1-1(1042.95mil,1606.42mil)  Multi-Layer
+   Violation between Track (1029.05mil,1580.92mil)(1029.05mil,1813.16mil)  Top Overlay and 
+                     Pad RSTK1-3(1042.95mil,1783.58mil)  Multi-Layer
+   Violation between Track (800.76mil,1813.16mil)(1029.05mil,1813.16mil)  Top Overlay and 
+                     Pad RSTK1-3(1042.95mil,1783.58mil)  Multi-Layer
+   Violation between Track (800.76mil,1580.92mil)(800.76mil,1813.16mil)  Top Overlay and 
+                     Pad RSTK1-4(787.05mil,1783.58mil)  Multi-Layer
+   Violation between Track (800.76mil,1813.16mil)(1029.05mil,1813.16mil)  Top Overlay and 
+                     Pad RSTK1-4(787.05mil,1783.58mil)  Multi-Layer
+   Violation between Track (1077.64mil,1203.79mil)(1077.64mil,1436.03mil)  Top Overlay and 
+                     Pad 上限加-2(1091.35mil,1410.53mil)  Multi-Layer
+   Violation between Track (849.35mil,1436.03mil)(1077.64mil,1436.03mil)  Top Overlay and 
+                     Pad 上限加-2(1091.35mil,1410.53mil)  Multi-Layer
+   Violation between Track (849.35mil,1203.79mil)(849.35mil,1436.03mil)  Top Overlay and 
+                     Pad 上限加-1(835.45mil,1410.53mil)  Multi-Layer
+   Violation between Track (849.35mil,1436.03mil)(1077.64mil,1436.03mil)  Top Overlay and 
+                     Pad 上限加-1(835.45mil,1410.53mil)  Multi-Layer
+   Violation between Track (849.35mil,1203.79mil)(849.35mil,1436.03mil)  Top Overlay and 
+                     Pad 上限加-3(835.45mil,1233.37mil)  Multi-Layer
+   Violation between Track (849.35mil,1203.79mil)(1077.64mil,1203.79mil)  Top Overlay and 
+                     Pad 上限加-3(835.45mil,1233.37mil)  Multi-Layer
+   Violation between Track (1077.64mil,1203.79mil)(1077.64mil,1436.03mil)  Top Overlay and 
+                     Pad 上限加-4(1091.35mil,1233.37mil)  Multi-Layer
+   Violation between Track (849.35mil,1203.79mil)(1077.64mil,1203.79mil)  Top Overlay and 
+                     Pad 上限加-4(1091.35mil,1233.37mil)  Multi-Layer
+   Violation between Track (699.24mil,1206.84mil)(699.24mil,1439.08mil)  Top Overlay and 
+                     Pad 上限减-2(712.95mil,1413.58mil)  Multi-Layer
+   Violation between Track (470.95mil,1439.08mil)(699.24mil,1439.08mil)  Top Overlay and 
+                     Pad 上限减-2(712.95mil,1413.58mil)  Multi-Layer
+   Violation between Track (470.95mil,1206.84mil)(470.95mil,1439.08mil)  Top Overlay and 
+                     Pad 上限减-1(457.05mil,1413.58mil)  Multi-Layer
+   Violation between Track (470.95mil,1439.08mil)(699.24mil,1439.08mil)  Top Overlay and 
+                     Pad 上限减-1(457.05mil,1413.58mil)  Multi-Layer
+   Violation between Track (470.95mil,1206.84mil)(470.95mil,1439.08mil)  Top Overlay and 
+                     Pad 上限减-3(457.05mil,1236.42mil)  Multi-Layer
+   Violation between Track (470.95mil,1206.84mil)(699.24mil,1206.84mil)  Top Overlay and 
+                     Pad 上限减-3(457.05mil,1236.42mil)  Multi-Layer
+   Violation between Track (699.24mil,1206.84mil)(699.24mil,1439.08mil)  Top Overlay and 
+                     Pad 上限减-4(712.95mil,1236.42mil)  Multi-Layer
+   Violation between Track (470.95mil,1206.84mil)(699.24mil,1206.84mil)  Top Overlay and 
+                     Pad 上限减-4(712.95mil,1236.42mil)  Multi-Layer
+   Violation between Track (710.28mil,908.79mil)(710.28mil,1141.03mil)  Top Overlay and 
+                     Pad 下限减-2(723.99mil,1115.53mil)  Multi-Layer
+   Violation between Track (481.99mil,1141.03mil)(710.28mil,1141.03mil)  Top Overlay and 
+                     Pad 下限减-2(723.99mil,1115.53mil)  Multi-Layer
+   Violation between Track (481.99mil,908.79mil)(481.99mil,1141.03mil)  Top Overlay and 
+                     Pad 下限减-1(468.09mil,1115.53mil)  Multi-Layer
+   Violation between Track (481.99mil,1141.03mil)(710.28mil,1141.03mil)  Top Overlay and 
+                     Pad 下限减-1(468.09mil,1115.53mil)  Multi-Layer
+   Violation between Track (481.99mil,908.79mil)(481.99mil,1141.03mil)  Top Overlay and 
+                     Pad 下限减-3(468.09mil,938.37mil)  Multi-Layer
+   Violation between Track (481.99mil,908.79mil)(710.28mil,908.79mil)  Top Overlay and 
+                     Pad 下限减-3(468.09mil,938.37mil)  Multi-Layer
+   Violation between Track (710.28mil,908.79mil)(710.28mil,1141.03mil)  Top Overlay and 
+                     Pad 下限减-4(723.99mil,938.37mil)  Multi-Layer
+   Violation between Track (481.99mil,908.79mil)(710.28mil,908.79mil)  Top Overlay and 
+                     Pad 下限减-4(723.99mil,938.37mil)  Multi-Layer
+   Violation between Track (1072.92mil,908.79mil)(1072.92mil,1141.03mil)  Top Overlay and 
+                     Pad 下限加-2(1086.63mil,1115.53mil)  Multi-Layer
+   Violation between Track (844.63mil,1141.03mil)(1072.92mil,1141.03mil)  Top Overlay and 
+                     Pad 下限加-2(1086.63mil,1115.53mil)  Multi-Layer
+   Violation between Track (844.63mil,908.79mil)(844.63mil,1141.03mil)  Top Overlay and 
+                     Pad 下限加-1(830.73mil,1115.53mil)  Multi-Layer
+   Violation between Track (844.63mil,1141.03mil)(1072.92mil,1141.03mil)  Top Overlay and 
+                     Pad 下限加-1(830.73mil,1115.53mil)  Multi-Layer
+   Violation between Track (844.63mil,908.79mil)(844.63mil,1141.03mil)  Top Overlay and 
+                     Pad 下限加-3(830.73mil,938.37mil)  Multi-Layer
+   Violation between Track (844.63mil,908.79mil)(1072.92mil,908.79mil)  Top Overlay and 
+                     Pad 下限加-3(830.73mil,938.37mil)  Multi-Layer
+   Violation between Track (1072.92mil,908.79mil)(1072.92mil,1141.03mil)  Top Overlay and 
+                     Pad 下限加-4(1086.63mil,938.37mil)  Multi-Layer
+   Violation between Track (844.63mil,908.79mil)(1072.92mil,908.79mil)  Top Overlay and 
+                     Pad 下限加-4(1086.63mil,938.37mil)  Multi-Layer
+   Violation between Track (1571.547mil,298.843mil)(1717.252mil,298.843mil)  Top Overlay and 
+                     Pad C6-1(1644.031mil,295mil)  Multi-Layer
+   Violation between Track (1571.783mil,489.903mil)(1717.484mil,489.903mil)  Top Overlay and 
+                     Pad C6-2(1644.031mil,495mil)  Multi-Layer
+   Violation between Track (1571.779mil,756.157mil)(1717.484mil,756.157mil)  Top Overlay and 
+                     Pad C5-1(1645mil,760mil)  Multi-Layer
+   Violation between Track (1571.547mil,565.097mil)(1717.248mil,565.097mil)  Top Overlay and 
+                     Pad C5-2(1645mil,560mil)  Multi-Layer
+   Violation between Track (2971.779mil,1446.157mil)(3117.484mil,1446.157mil)  Top Overlay and 
+                     Pad C7-1(3045mil,1450mil)  Multi-Layer
+   Violation between Track (2971.547mil,1255.097mil)(3117.248mil,1255.097mil)  Top Overlay and 
+                     Pad C7-2(3045mil,1250mil)  Multi-Layer
+   Violation between Track (3341.157mil,2627.516mil)(3341.157mil,2773.221mil)  Top Overlay and 
+                     Pad C1-1(3345mil,2700mil)  Multi-Layer
+   Violation between Track (3150.097mil,2627.752mil)(3150.097mil,2773.453mil)  Top Overlay and 
+                     Pad C1-2(3145mil,2700mil)  Multi-Layer
+   Violation between Track (1986.157mil,2617.516mil)(1986.157mil,2763.221mil)  Top Overlay and 
+                     Pad C3-1(1990mil,2690mil)  Multi-Layer
+   Violation between Track (1795.097mil,2617.752mil)(1795.097mil,2763.453mil)  Top Overlay and 
+                     Pad C3-2(1790mil,2690mil)  Multi-Layer
+   Violation between Track (410mil,2855mil)(511mil,2855mil)  Top Overlay and 
+                     Pad D1-2(410mil,2855mil)  Multi-Layer
+   Violation between Track (410mil,2855mil)(511mil,2855mil)  Top Overlay and 
+                     Pad D1-1(510mil,2855mil)  Multi-Layer
+   Violation between Track (2585mil,1305mil)(2686mil,1305mil)  Top Overlay and 
+                     Pad D2-1(2685mil,1305mil)  Multi-Layer
+   Violation between Track (2585mil,1305mil)(2686mil,1305mil)  Top Overlay and 
+                     Pad D2-2(2585mil,1305mil)  Multi-Layer
+Rule Violations :57
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=6mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (ISVIA),(INPolygon)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Time Elapsed        : 00:00:01

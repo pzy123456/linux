@@ -1,0 +1,3 @@
+Change Component Comment : Designator=D1 Old Comment=led New Comment=led1
+Added Component: Designator=D2(LED-5MM-2.54MM)
+Added Member To Class: ClassName=ÖÇÄÜÎÂ¿Ø·çÉÈ Member=Component D2 led2

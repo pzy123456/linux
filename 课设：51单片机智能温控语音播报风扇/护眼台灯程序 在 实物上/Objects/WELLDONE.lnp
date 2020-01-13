@@ -1,0 +1,3 @@
+".\Objects\NO_1.obj" 
+TO ".\Objects\WELLDONE" 
+PRINT(".\Listings\WELLDONE.m51") RAMSIZE(256) 

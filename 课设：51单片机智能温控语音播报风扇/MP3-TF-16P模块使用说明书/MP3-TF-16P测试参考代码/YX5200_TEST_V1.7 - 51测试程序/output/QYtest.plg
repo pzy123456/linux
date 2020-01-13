@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Administrator\Desktop\MP3-TF-16P模块使用说明书\MP3-TF-16P测试参考代码\YX5200_TEST_V1.7 - 51测试程序\YX5200.uvproj
+Project File Date:  05/20/2019
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+src\main.c(34): error C129: missing ';' before 'Send_buf'
+compiling Log.c...
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(34): error C129: missing ';' before 'Send_buf'
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(34): error C129: missing ';' before 'Send_buf'
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(34): error C129: missing ';' before 'Send_buf'
+Target not created
+Build target 'Target 1'
+compiling main.c...
+src\main.c(33): error C129: missing ';' before 'Send_buf'
+Target not created

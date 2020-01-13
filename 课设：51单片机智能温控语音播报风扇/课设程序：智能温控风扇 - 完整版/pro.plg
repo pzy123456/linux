@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Administrator\Desktop\课设程序：智能温控风扇 - 完整版\pro.uvproj
+Project File Date:  05/26/2019
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: data=45.0 xdata=0 code=2816
+creating hex file from "pro"...
+"pro" - 0 Error(s), 0 Warning(s).
